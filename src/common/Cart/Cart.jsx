@@ -37,6 +37,7 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
                         <i className='fa-solid fa-xmark'></i>
                       </button>
                     </div>
+
                     {/* stpe: 5 
                     product ko qty lai inc ra des garne
                     */}
