@@ -56,6 +56,7 @@ function App() {
     // inside  setCartItem we will run filter to check if item.id is match to product.id
     // if the item.id is doesnt match to product.id then that items are display in cart
     // else
+    
     if (productExit.qty === 1) {
       setCartItem(CartItem.filter((item) => item.id !== product.id))
     } else {
