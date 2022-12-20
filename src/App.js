@@ -31,6 +31,7 @@ function App() {
   //Step 4 :
   const addToCart = (product) => {
     // if hamro product alredy cart xa bhane  find garna help garxa
+    
     const productExit = CartItem.find((item) => item.id === product.id)
     // if productExit chai alredy exit in cart then will run fun() => setCartItem
     // ani inside => setCartItem will run => map() ani yo map() chai each cart ma
