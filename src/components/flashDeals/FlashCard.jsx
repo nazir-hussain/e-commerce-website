@@ -52,6 +52,7 @@ const FlashCard = ({ productItems, addToCart }) => {
                     <label>{count}</label> <br />
                     <i className='fa-regular fa-heart' onClick={increment}></i>
                   </div>
+
                 </div>
                 <div className='product-details'>
                   <h3>{productItems.name}</h3>
