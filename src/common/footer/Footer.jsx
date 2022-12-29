@@ -42,6 +42,7 @@ const Footer = () => {
               <li>Returns & Refunds </li>
             </ul>
           </div>
+    
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
