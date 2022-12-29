@@ -31,6 +31,7 @@ const Footer = () => {
               <li>Privacy Policy</li>
             </ul>
           </div>
+    
           <div className='box'>
             <h2>Customer Care</h2>
             <ul>
