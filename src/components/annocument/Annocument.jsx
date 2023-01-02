@@ -9,6 +9,7 @@ const Annocument = () => {
     width: "68%",
     height: "340px",
   }
+  
   return (
     <>
       <section className='annocument background'>
