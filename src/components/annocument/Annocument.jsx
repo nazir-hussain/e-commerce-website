@@ -5,6 +5,7 @@ const Annocument = () => {
     width: "30%",
     height: "340px",
   }
+  
   const mystyle1 = {
     width: "68%",
     height: "340px",
