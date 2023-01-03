@@ -15,6 +15,7 @@ const Discount = () => {
               <span>View all</span>
               <i className='fa-solid fa-caret-right'></i>
             </div>
+    
           </div>
           <Dcard />
         </div>
