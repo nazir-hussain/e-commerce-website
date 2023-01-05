@@ -14,6 +14,8 @@ const Footer = () => {
                 <i class='fa-brands fa-google-play'></i>
                 <span>Google Play</span>
               </div>
+    
+    
               <div className='img d_flex'>
                 <i class='fa-brands fa-app-store-ios'></i>
                 <span>App Store</span>
